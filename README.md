@@ -64,4 +64,3 @@ Hungarian (Hungary)                                                  hu
 Farsi (Iran)                                                         fa
 
 Slovak (Slovakia)                                                    sk
-
