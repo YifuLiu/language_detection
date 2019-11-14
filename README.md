@@ -4,7 +4,7 @@ A total of 31 test data for multiple language detection: the different length of
 The dataset is created by the clustering method of Kmeans and visualization method of TSNE to check if the Kmeans clustering make sense or not. The purpose of this test dataset is to evaluate different language detection tool: such as google translation, aws comprehend, etc.
 
 
-![alt text](https://raw.githubusercontent.com/YifuLiu/language_detection/language_code.png)
+![alt text](https://github.com/YifuLiu/language_detection/language_code.png)
 
 English                                                              en
 
