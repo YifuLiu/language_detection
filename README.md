@@ -5,7 +5,7 @@ The dataset is created by the clustering method of Kmeans and visualization meth
 
 
 ![alt text](https://github.com/YifuLiu/language_detection/blob/master/language_code.png)
-
+ 
 English                                                              en
 
 Spanish (Spain, Latin America)                                       es
